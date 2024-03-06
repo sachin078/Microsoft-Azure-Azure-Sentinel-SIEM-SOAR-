@@ -1,5 +1,5 @@
 <h1>Microsoft Azure: Azure Sentinel (SIEM & SOAR) Project</h1>
-<img src="MicrosoftAzureProject copy.jpg" height="80%" width="80%" alt="diagram"/>
+<img src="MicrosoftAzureProject copy.jpeg" height="80%" width="80%" alt="diagram"/>
 <h2>Description</h2>
 In this lab, I implemented Azure Sentinel as a SIEM & SOAR solution, integrated with a live honeypot VM. This allowed for monitoring of global RDP Brute Force attacks. I employed a custom PowerShell script to extract attacker geolocation data and plotted it on the Azure Sentinel Map for enhanced visual insights.
 <br />
