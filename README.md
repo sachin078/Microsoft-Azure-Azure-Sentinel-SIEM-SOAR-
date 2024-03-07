@@ -31,7 +31,7 @@ Create a Log Analytics Workspace to log the inbound traffic to the VM: <br/>
 <br />
 <br />
 Connect the Log Analytics Workspace to the VM:  <br/>
-<img src="https://imgur.com/cvc2aWg.png" height="80%" width="80%" alt="set up"/>
+<img src="68747470733a2f2f696d6775722e636f6d2f637663326157672e706e67.png" height="80%" width="80%" alt="set up"/>
 <br />
 <br />
 Run the VM and connect to it via Remote Desktop Connection:  <br/>
