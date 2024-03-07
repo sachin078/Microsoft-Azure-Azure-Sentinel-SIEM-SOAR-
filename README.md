@@ -35,7 +35,7 @@ Connect the Log Analytics Workspace to the VM:  <br/>
 <br />
 <br />
 Run the VM and connect to it via Remote Desktop Connection:  <br/>
-<img src="https://imgur.com/cywVdub.png" height="80%" width="80%" alt="set up"/>
+<img src="Connecting to VM.png" height="80%" width="80%" alt="set up"/>
 <br />
 <br />
 Turn off Windows Firewall within the RDC VM:  <br/>
