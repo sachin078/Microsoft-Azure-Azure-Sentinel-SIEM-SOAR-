@@ -71,11 +71,11 @@ Using the SQL Query in logs, observe the data from the custom log:  <br/>
 <br />
 <br />
 Extract the fields from raw custom logs:  <br/>
-<img src="https://imgur.com/jLsYsXo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="raw custom logs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Check custom fields to confirm before testing:  <br/>
-<img src="https://imgur.com/AHNYV0x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="custom fields.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Test new custom fields which were extracted to see if they collect the data:  <br/>
@@ -83,21 +83,21 @@ Test new custom fields which were extracted to see if they collect the data:  <b
 <br />
 <br />
 Create Microsoft Sentinel:  <br/>
-<img src="https://imgur.com/Ij2CQgX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="MS sentinel.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Within Microsoft Sentinel, setup a map in workbooks using longitude and latitude:  <br/>
-<img src="https://imgur.com/TnOTZlc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="workbook map.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Use the following SQL Query to isolate which data to be shown, and the following map settings to display on world map:  <br/>
-<img src="https://imgur.com/jkC9uK0.png" height="80%" width="80%" alt="workbook setup"/>
+<img src="SQL Query for map.png" height="80%" width="80%" alt="workbook setup"/>
 <img src="https://imgur.com/TAeiN3Q.png" height="80%" width="80%" alt="workbook setup"/>
 <img src="https://imgur.com/F7WlgYG.png" height="80%" width="80%" alt="workbook setup"/>
 <br />
 <br />
 After a couple hours the VM will be found by the cyber attackers of the world. Now you can observe Geo Data from where your VM is being breached!:  <br/>
-<img src="https://imgur.com/srMTOOG.png" height="80%" width="80%" alt="Cyber Attack Event Management"/>
+<img src="breached image.png" height="80%" width="80%" alt="Cyber Attack Event Management"/>
 <br />
 <br />
 This Concludes This Microsoft Azure SIEM Project!
