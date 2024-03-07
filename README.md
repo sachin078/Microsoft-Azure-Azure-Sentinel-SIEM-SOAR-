@@ -67,7 +67,7 @@ Using the SQL Query in logs, observe the data security audit logs:  <br/>
 <br />
 <br />
 Using the SQL Query in logs, observe the data from the custom log:  <br/>
-<img src="https://imgur.com/feqrZqR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="query custom logs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Extract the fields from raw custom logs:  <br/>
