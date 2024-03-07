@@ -39,7 +39,7 @@ Run the VM and connect to it via Remote Desktop Connection:  <br/>
 <br />
 <br />
 Turn off Windows Firewall within the RDC VM:  <br/>
-<img src="https://imgur.com/blLn2D8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="RDP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Test ping from personal computer to VM:  <br/>
