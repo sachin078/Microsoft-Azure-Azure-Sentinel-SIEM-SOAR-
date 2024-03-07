@@ -19,7 +19,7 @@ In this lab, I implemented Azure Sentinel as a SIEM & SOAR solution, integrated 
 
 <p align="center">
 Create a VM that is discoverable to all traffic: <br/>
-<img src="https://imgur.com/LwZDG8f.png" height="80%" width="80%" alt="set up"/>
+<img src="VM.png" height="80%" width="80%" alt="set up"/>
 <br />
 <br />
 Change security group inbound rules to make the VM very discoverable:  <br/>
@@ -27,7 +27,7 @@ Change security group inbound rules to make the VM very discoverable:  <br/>
 <br />
 <br />
 Create a Log Analytics Workspace to log the inbound traffic to the VM: <br/>
-<img src="https://imgur.com/WVrBleM.png" height="80%" width="80%" alt="set up"/>
+<img src="Log analytics.png" height="80%" width="80%" alt="set up"/>
 <br />
 <br />
 Connect the Log Analytics Workspace to the VM:  <br/>
