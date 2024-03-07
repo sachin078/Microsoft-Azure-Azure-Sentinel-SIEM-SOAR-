@@ -59,7 +59,11 @@ Save script as log file and it'll create a txt file with all the failed login at
 <br />
 <br />
 Create a custom log thats linked to the txt file with all the failed login attempts Geo Data:  <br/>
-<img src="https://imgur.com/pOMAErE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Custom log Azure.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Using the SQL Query in logs, observe the data security audit logs:  <br/>
+<img src="Security event logs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Using the SQL Query in logs, observe the data from the custom log:  <br/>
