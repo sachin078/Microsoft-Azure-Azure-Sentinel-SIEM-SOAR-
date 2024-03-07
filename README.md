@@ -43,19 +43,19 @@ Turn off Windows Firewall within the RDC VM:  <br/>
 <br />
 <br />
 Test ping from personal computer to VM:  <br/>
-<img src="https://imgur.com/pfj1r2L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="VM connectivity .png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Get an API Key if you dont already have one (ipgeolocation.io):  <br/>
-<img src="https://imgur.com/55RDEz9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="API key.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Run custom script with your API Key on Windows PowerShell ISE to get Geo Data from attackers :  <br/>
-<img src="https://imgur.com/IZv9ErM.png" height="80%" width="80%" alt="Cyber Attack Event Management"/>
+<img src="custom script.png" height="80%" width="80%" alt="Cyber Attack Event Management"/>
 <br />
 <br />
 Save script as log file and it'll create a txt file with all the failed login attempts Geo Data :  <br/>
-<img src="https://imgur.com/BTvCbJb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="log file.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Create a custom log thats linked to the txt file with all the failed login attempts Geo Data:  <br/>
